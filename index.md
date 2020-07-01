@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+### UTF-8
 
-You can use the [editor on GitHub](https://github.com/nmhusain/husain.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Earlier days computer has to display only a small set of characters, most of us familiar with characters as ASCII text. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For the characters other than ASCII we needed encoding scheme that accomodates that more that 128 characters. Thus we have Unicode(not a encoding) and UTF-8.
 
-### Markdown
+The 8 in the UTF-8 represents the numbers are represented in 8-bit blocks. The number of blocks can be about 1 or 2 or upto 4.
+it shares some similar features with ASCII. It supports null terminated strings.
+`
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nmhusain/husain.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
