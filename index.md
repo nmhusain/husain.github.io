@@ -6,6 +6,7 @@ For the characters other than ASCII we needed encoding scheme that accomodates t
 
 The 8 in the UTF-8 represents the numbers are represented in 8-bit blocks. The number of blocks can be about 1 or 2 or upto 4.
 it shares some similar features with ASCII. It supports null terminated strings.
-`
 
 
+Source
+https://www.fileformat.info/info/unicode/utf8.htm
